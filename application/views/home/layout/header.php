@@ -29,10 +29,11 @@
     <script src="<?= base_url() ?>assets/home/js/vendor/modernizr-2.8.3.min.js"></script>
 
     <link href="<?= base_url() ?>assets/login/css/login-register.css" rel="stylesheet" />
-    <!-- <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css"> -->
+    <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css">
 
     <script src="<?= base_url() ?>assets/login/js/bootstrap.js" type="text/javascript"></script>
     <script src="<?= base_url() ?>assets/login/js/login-register.js" type="text/javascript"></script>
+    <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous"> -->
     <style>
         .bg-white{
             background-color: #FFF;
@@ -41,5 +42,6 @@
         .color-white{
             color: #FFF;
         }
+        
     </style>
 </head>
